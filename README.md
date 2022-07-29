@@ -1,4 +1,4 @@
-RandomForestProject_LendingClub
+#RandomForestProject_LendingClub
 In this Project, exploring publicly available data from LendingClub.com. Lending Club connects people who need money (borrowers) with people who have money (investors). Hopefully, as an investor you would want to invest in people who showed a profile of having a high probability of paying you back. We used Random forest and Decision trees algorithim to create a model that will help predict this.
 
 Lending club had a very interesting year in 2016, so let's check out some of their data and keep the context in mind. This data is from before they even went public.
